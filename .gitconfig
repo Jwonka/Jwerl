@@ -4,5 +4,12 @@
 	process = git-lfs filter-process
 	required = true
 [user]
-	name = Jwonka
-	email = jjwerlein@gmail.com
+	name = Josh Werlein
+	email = jwerlein2@student.cvtc.edu
+[core]
+	autocrlf = true
+	editor = code --wait
+[init]
+	defaultBranch = main
+[safe]
+	directory = C:/Users/Jwerl
